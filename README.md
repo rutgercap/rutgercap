@@ -7,7 +7,7 @@ I'm a big tech lover, currently learning software engineering at [Codam Coding C
 - 🌱 I’m currently learning more C/C++, webdevelopment and the fundamentals of blockchain technology
 - 👔 I'm working as full stack developer at the [ZuiderMrkt](https://www.zuidermrkt.nl/)
 - 📚 I have an academic background in Psychology and Philosophy
-- ⭐ I have a goal of building a self-sustaining decentralised autonomous organisation 
+- ⭐ Well known among friends for finding (and possibly creating) bugs in unexpected places
 
 Currently my repositories are mostly school projects which are written in
 
