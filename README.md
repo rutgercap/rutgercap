@@ -4,12 +4,27 @@ I'm a big tech lover, currently learning software engineering at [Codam Coding C
 
 
 - 👨‍💻 I’m working on writing my own simple shell in C and my work as webdeveloper
-- 🌱 I’m currently learning more C/C++, webdevelopment in Typescript and the fundamentals of blockchain technology
+- 🌱 I’m currently learning more C/C++, webdevelopment and the fundamentals of blockchain technology
 - 👔 I'm working as full stack developer at the [ZuiderMrkt](https://www.zuidermrkt.nl/)
 - 📚 I have an academic background in Psychology and Philosophy
 - ⭐ I have a goal of building a self-sustaining decentralised autonomous organisation 
 
 Currently my repositories are mostly school projects which are written in
 
-Technologies not represented in my repositories, but I am experienced with:
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+Other techs & tools I'm experienced with:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+Would love to get in touch!
+
+<a href= "https://www.linkedin.com/in/rutger-cappendijk-b56906154/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:rutgercappendijk@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
