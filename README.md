@@ -1,16 +1,15 @@
-### Hi there 👋
+### Heyo Rutger here!👋
 
-<!--
-**rutgercap/rutgercap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a big tech lover, currently learning software engineering at [Codam Coding College](https://www.codam.nl/) (part of the [42 Network](https://42.fr/en/what-is-42/42-program-explained/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m working on writing my own simple shell in C and my work as webdeveloper
+- 🌱 I’m currently learning more C/C++, webdevelopment in Typescript and the fundamentals of blockchain technology
+- 👔 I'm working as full stack developer at the [ZuiderMrkt](https://www.zuidermrkt.nl/)
+- 📚 I have an academic background in Psychology and Philosophy
+- ⭐ I have a goal of building a self-sustaining decentralised autonomous organisation 
+
+Currently my repositories are mostly school projects which are written in
+
+Technologies not represented in my repositories, but I am experienced with:
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
