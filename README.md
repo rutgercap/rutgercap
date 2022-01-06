@@ -1,6 +1,6 @@
 ### Heyo Rutger here!👋
 
-I'm a big tech lover, currently learning software engineering at [Codam Coding College](https://www.codam.nl/) (part of the [42 Network](https://42.fr/en/what-is-42/42-program-explained/).
+I'm a big tech lover, currently learning software engineering at [Codam Coding College](https://www.codam.nl/) (part of the [42 Network](https://42.fr/en/what-is-42/42-program-explained/)).
 
 
 - 👨‍💻 I’m working on writing my own simple shell in C and my work as webdeveloper
