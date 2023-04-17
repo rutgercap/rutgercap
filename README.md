@@ -2,8 +2,8 @@
 
 I'm a big tech lover, currently learning software engineering at [Codam Coding College](https://www.codam.nl/) (part of the [42 Network](https://42.fr/en/what-is-42/42-program-explained/)).
 
-- 🌱 Currently focussing on full stack development and Flutter
-- 👔 I'm working as app developer at [Iyyu](https://iyyu.com/)
+- 🌱 Currently focussing on learning Rust!
+- 👔 I'm working as software engineer at [Aleph Alpha](https://www.aleph-alpha.com/)
 - 📚 Academic background in Psychology and Philosophy
 - 👨‍🍳 Non-professional chef, 🍸 cocktail bartender and 🚤 boat enthusiast
 
